@@ -1,0 +1,15 @@
+111111  77777  residential
+222222  55555  commercial
+333333  77777  residential
+444444  34343  commercial
+555555  55555  residential
+666666  22222  commercial
+777777  33333  residential
+888888  12121  commercial
+999999  11111  residential
+121212  12121  commercial
+232323  23232  residential
+343434  34343  commercial
+454545  45454  residential
+565656  56565  commercial
+909090  11111  commercial
